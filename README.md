@@ -5,8 +5,8 @@ I am a passionate developer with experience in Python, Go, Java, and Pascal. I l
 
 <div>
   <a href="https://github.com/joaovfcosta01">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovfcosta01&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovfcosta01&layout=compact&langs_count=16&theme=one_dark_pro"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=joaovfcosta01&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovfcosta01&layout=compact&langs_count=16&theme=one_dark_pro"/>
   </a>
 </div>
 
