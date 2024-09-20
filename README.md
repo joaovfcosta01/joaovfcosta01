@@ -1,14 +1,7 @@
 Hi I'm João Victor!
 I am a passionate developer with experience in Python, Go, Java, and Pascal. I love creating solutions that improve people's lives and increase efficiency across multiple domains. My journey into software development started recently, but I have been dedicated to improving and acquiring more knowledge.
 
-##
 
-<div>
-  <a href="https://github.com/joaovfcosta01">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=joaovfcosta01&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovfcosta01&layout=compact&langs_count=16&theme=one_dark_pro"/>
-  </a>
-</div>
 
 
 ##
